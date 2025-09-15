@@ -1,0 +1,113 @@
+{
+  "GameConfiguration": {
+    "lapsNumber": 4,
+    "playersInstantiationDelay": 8000
+  },
+  "Players": [
+    {
+      "Name": "Pippo",
+      "Velocity": 16,
+      "Color": "#5adb72"      
+    },
+    {
+      "Name": "Michael",
+      "Velocity": 27,
+      "Color": "#3db2ca"      
+    },
+    {
+      "Name": "Fred",
+      "Velocity": 24,
+      "Color": "#6d11f1"      
+    },
+    {
+      "Name": "Lorre",
+      "Velocity": 25,
+      "Color": "#2a3036"      
+    },
+    {
+      "Name": "Jeff",
+      "Velocity": 27,
+      "Color": "#d83169"
+    },
+    {
+      "Name": "Perl",
+      "Velocity": 26,
+      "Color": "#87b561"      
+    },
+    {
+      "Name": "Tango",
+      "Velocity": 24,
+      "Color": "#6485af"
+    },
+    {
+      "Name": "Cash",
+      "Velocity": 23,
+      "Color": "#bdc75a"
+    },
+    {
+      "Name": "Nick",
+      "Velocity": 18,
+      "Color": "#aa586e"
+    },
+    {
+      "Name": "Teo",
+      "Velocity": 21,
+      "Color": "#66cbe2"
+    },
+    {
+      "Name": "Geffy",
+      "Velocity": 19,
+      "Color": "#0e0240"
+    },
+    {
+      "Name": "Kao",
+      "Velocity": 26,
+      "Color": "#83fb4f"
+    },
+    {
+      "Name": "Tao",
+      "Velocity": 23,
+      "Color": "#8573f2"
+    },
+    {
+      "Name": "Ping",
+      "Velocity": 29,
+      "Color": "#7e376b"
+    },
+    {
+      "Name": "Pong",
+      "Velocity": 28,
+      "Color": "#53af07"
+    },
+    {
+      "Name": "Lerp",
+      "Velocity": 24,
+      "Color": "#149c68"
+    },
+    {
+      "Name": "Piff",
+      "Velocity": 25,
+      "Color": "#cc5b09"
+    },
+    {
+      "Name": "Kao",
+      "Velocity": 23,
+      "Color": "#c68204"
+    },
+    {
+      "Name": "Mao",
+      "Velocity": 25,
+      "Color": "#a0140b"
+    },
+    {
+      "Name": "Pokoy",
+      "Velocity": 22,
+      "Color": "#154227"
+    },
+    {
+      "Name": "Taffy",
+      "Velocity": 23,
+      "Color": "#bab9d3"
+    }
+  ]
+}
